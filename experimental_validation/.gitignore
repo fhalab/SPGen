@@ -1,0 +1,9 @@
+figs/
+archive/
+*.pptx 
+.ipynb_checkpoints/
+outputs/
+scratchpad*
+data/
+*~$*.docx
+alignment_remote/
